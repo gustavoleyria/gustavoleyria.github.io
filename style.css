@@ -1,0 +1,14 @@
+.init{
+    font-weight: bold;
+    color: rgb(14, 219, 24);
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+    background-color: rgb(218, 18, 201);
+}
+p{
+    font-size: large;
+    background-color: blue;
+}
